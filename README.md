@@ -5,9 +5,9 @@ Project for "Techniques of AI" class of Masters in Applied Computer Science (MAC
 
 ## Road Map
 
-1. Breaking hard coded blocks for modularity, functionality and ease to maintain.
-2. Scaling everything from two heaps to dynamic heaps.
-3. Better coding for tree generation, minimax generation etc.
+- [ ] Breaking hard coded blocks for modularity, functionality and ease to maintain.
+- [ ] Scaling everything from two heaps to dynamic heaps.
+- [ ] Better coding for tree generation, minimax generation etc.
 
 ## Small Introduction
 **Project Subject:** "Implement a machine learning algorithm and proof to us that it works correctly".  
@@ -20,7 +20,8 @@ Game of NIM is chosen since:
 2. Every implementation of minimax algorithm is done on tic-tac-toe.  
     A variation of implementation will be nice to study and observe
 
-Long introduction and details can be found on [Introduction document](docs/INTRO.md)
+Long introduction and details can be found on [Introduction document](docs/INTRO.md)  
+:construction: This is also work in progress
 
 Information about submitted version can be found on [Submitted Info](docs/SUB_INFO.md)
 
