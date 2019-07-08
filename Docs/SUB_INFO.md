@@ -5,12 +5,12 @@ In this project, it is aimed to implement minimax algorithm to a modified versio
 The reason I’ve chosen to use NIM game is that tic-tac-toe is almost synonymous with minimax algorithm. NIM game allows us to observe minimax algorithm with proof that it works, since NIM game has a mathematical solution one can cross-check moves with result of given solution.
 
 ## Index
-* [Information about Minimax algorithm](##information-about-minimax-algorithm)
-* [Information about NIM Game and solution](##information-about-NIM-game-and-solution)
-* [Information about modified NIM Game and solution](##information-about-modified-NIM-Game-and-solution)
-  - [Problems Caused by modification](###Problems-Caused-by-modification)
-* [How proof of correct implementation is provided](##How-proof-of-correct-implementation-is-provided)
-* [Addendum](##Addendum)
+* [Information about Minimax algorithm](#information-about-minimax-algorithm)
+* [Information about NIM Game and solution](#information-about-NIM-game-and-solution)
+* [Information about modified NIM Game and solution](#information-about-modified-NIM-Game-and-solution)
+  - [Problems Caused by modification](#Problems-Caused-by-modification)
+* [How proof of correct implementation is provided](#How-proof-of-correct-implementation-is-provided)
+* [Addendum](#Addendum)
 
 ## Information about Minimax algorithm
 
