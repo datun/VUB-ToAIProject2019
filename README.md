@@ -1,7 +1,10 @@
 # VUB - ToAIProject 2019
 Project for "Techniques of AI" class of Masters in Applied Computer Science (MACS)
 
-## Project Status: WIP  :construction:
+## Project Status:  :construction:
+
+**S U S P E N D E D**
+(Was suspended during internship, now suspended due to classes starting up.)
 
 ## Road Map
 
